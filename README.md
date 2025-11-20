@@ -34,10 +34,6 @@ While no single model is universally the best, RandomForest’s balance of accur
 <img width="800" height="600" alt="Confusion_Matrix_RF (1)" src="https://github.com/user-attachments/assets/d4b8f5ca-613b-4ddc-bee2-7533a63c19ac" />
 
 
-<img width="800" height="600" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/bde7deed-5d14-4fae-a74f-a4acad9b025e" />
-
-
-
 
 
 <br><br>
