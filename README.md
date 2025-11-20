@@ -12,7 +12,7 @@ The prevalence, however, is not uniform across all groups and regions. For insta
 These variations depend on factors like nutritional status, healthcare access, and socioeconomic conditions.
 so I created an unique model using **Random Forest Classifier** providing us an accuracy of 98.50%   
 
-RandomForest Classifiers are often preferred for health monitoring for several key reasons:
+RandomForest Classifier is often preferred for health monitoring for several key reasons:
 1) Robustness Through Ensemble Learning
 2) Handling Complex and High-Dimensional Data
 3) Feature Importance Insights
@@ -50,17 +50,6 @@ Further I created a Web Application by using Streamlit which provides me with UR
 <br><br>
 <h2 align="center"><b>Web App Preview</b></h2>
 <br><br>
-
-Hb Levels	Men	Women (Non-Pregnant)	 Pregnant Women	Children (6 months – 5 years)	Children (5–12 years)
-Normal	13.0 – 17.0 g/dL	12.0 – 15.0 g/dL	11.0 – 14.0 g/dL	11.0 – 14.0 g/dL	11.5 – 15.0 g/dL
-Mild	11.0 – 12.9 g/dL	11.0 – 11.9 g/dL	10.0 – 10.9 g/dL	10.0 – 10.9 g/dL	11.0 – 11.4 g/dL
-Moderate	8.0 – 10.9 g/dL	 8.0 – 10.9 g/dL	7.0 – 9.9 g/dL	7.0 – 9.9 g/dL	8.0 – 10.9 g/dL
-Severe	< 8.0 g/dL	< 8.0 g/dL	< 7.0 g/dL	< 7.0 g/dL	< 8.0 g/dL
-
-
-
-
-
 
 To improve authenticity, I refered Hb levels from WHO site:
 
