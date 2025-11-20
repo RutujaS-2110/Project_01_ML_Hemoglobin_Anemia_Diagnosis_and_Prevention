@@ -45,7 +45,11 @@ Further I created a Web Application by using Streamlit which provides me with UR
 
 <img width="800" height="400" alt="Screenshot (243)" src="https://github.com/user-attachments/assets/471c22ec-bbb6-4f6a-93a6-5cdb4d773080" />
 
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/68f9cd93-3122-493f-b138-f93a74d26604" />
+<img width="800" height="400" alt="Screenshot (882)" src="https://github.com/user-attachments/assets/27eb6d89-7f94-406d-80e5-e7c9e712ac2d" />
+
+<img width="800" height="400" alt="Screenshot (884)" src="https://github.com/user-attachments/assets/5fe9a38e-e3ef-446c-99a4-7d6c1eb905ce" />
+
+<img width="800" height="400" alt="Screenshot (885)" src="https://github.com/user-attachments/assets/38dd981c-754a-4686-86ba-98cf20411e1f" />
 
 
 <br><br>
