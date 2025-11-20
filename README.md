@@ -41,11 +41,12 @@ While no single model is universally the best, RandomForest’s balance of accur
 <br><br>
 
 
-Further I created a Web Application by using Streamlit which provides me with URL, Streamlit makes my work easier than ever.
+Further I created a Web Application by using Streamlit which provides me with URL, Streamlit makes work easier than ever.
 
-<img width="800" height="319" alt="Screenshot (243)" src="https://github.com/user-attachments/assets/471c22ec-bbb6-4f6a-93a6-5cdb4d773080" />
+<img width="800" height="400" alt="Screenshot (243)" src="https://github.com/user-attachments/assets/471c22ec-bbb6-4f6a-93a6-5cdb4d773080" />
 
-<img width="800" height="319" alt="Screenshot (252)" src="https://github.com/user-attachments/assets/d92cf672-5379-4400-8da6-9b79b7e41ffe" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/68f9cd93-3122-493f-b138-f93a74d26604" />
+
 
 <br><br>
 <h2 align="center"><b>Web App Preview</b></h2>
