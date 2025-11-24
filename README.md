@@ -47,11 +47,6 @@ Further I created a Web Application by using Streamlit which provides me with UR
 
 <img width="800" height="400" alt="Screenshot (882)" src="https://github.com/user-attachments/assets/27eb6d89-7f94-406d-80e5-e7c9e712ac2d" />
 
-<img width="800" height="400" alt="Screenshot (884)" src="https://github.com/user-attachments/assets/5fe9a38e-e3ef-446c-99a4-7d6c1eb905ce" />
-
-<img width="800" height="400" alt="Screenshot (885)" src="https://github.com/user-attachments/assets/38dd981c-754a-4686-86ba-98cf20411e1f" />
-
-
 <br><br>
 <h2 align="center"><b>Web App Preview</b></h2>
 <br><br>
