@@ -1,7 +1,7 @@
 <br><br>
 <h1 align="center"><b>Anemia Detection &amp; Prevention using Machine Learning and Web Application</b></h1>
 <br><br>
-**Demo Link-** https://drive.google.com/file/d/1z6Tyw-5J7xIU6VFkMB6orfZhassVo4-L/view?usp=sharing  
+ 
 According to estimates by the World Health Organization, around 25% of the global population suffers from anemia—that is, roughly one in four people. 
 The prevalence, however, is not uniform across all groups and regions. For instance:
 
@@ -148,12 +148,12 @@ Severe Anemia: < 8.0 g/dL.
 Username - **megha**, 
 Password - **megha2110**
 
-
+ 
 *Author* & *Creator* - **Rutuja/Megha Saharkar** 
 
 This project is licensed under the MIT License.
 
-
+Demo Link - https://drive.google.com/file/d/1z6Tyw-5J7xIU6VFkMB6orfZhassVo4-L/view?usp=sharing 
 
 
 
