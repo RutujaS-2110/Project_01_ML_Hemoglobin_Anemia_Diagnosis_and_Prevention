@@ -153,7 +153,7 @@ Password - **megha2110**
 
 This project is licensed under the MIT License.
 
-Demo Link - https://drive.google.com/file/d/1z6Tyw-5J7xIU6VFkMB6orfZhassVo4-L/view?usp=sharing 
+Demo Video - https://drive.google.com/file/d/1z6Tyw-5J7xIU6VFkMB6orfZhassVo4-L/view?usp=sharing 
 
 
 
